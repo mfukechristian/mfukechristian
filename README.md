@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Christian  Mfuke
-#### I am Frontend Web Developer 
-![I am Frontend Web Developer ](https://media-exp1.licdn.com/dms/image/C4D16AQGY_8HLpa3rpA/profile-displaybackgroundimage-shrink_350_1400/0/1662060199814?e=1674086400&v=beta&t=k-IlCzahgnk-L2PUBfDOm7VJDCx8I-Q2j-hp2LbVVzU)
+#### I am Software Engineer / Web Developer 
 
 I'm a Full Stack Web developer passionate about contributing to the digital space by building fun projects and creating technology to elevate people. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), and everything else. 
 
