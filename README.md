@@ -18,6 +18,3 @@ Skills: REACT / JS / HTML / CSS / Git / GitHub / Nodejs / Bootstrap etc...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfukechristian&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mfukechristian)  
-
-![Profile views](https://gpvc.arturio.dev/mfukechristian)  
