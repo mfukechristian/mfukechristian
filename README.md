@@ -12,9 +12,4 @@ Skills: REACT / JS / HTML / CSS / Git / GitHub / Nodejs / Bootstrap etc...
 - 📫 How to reach me: mfukechristian@gmail.com or +27659764945 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mfukechristian)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfukechristian)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfukechristian&show_icons=true)  
 
