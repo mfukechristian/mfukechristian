@@ -1,18 +1,32 @@
 # Hi, I'm Christian Mfuke 👋🏾 👨🏾‍💻
 
-I'm a software engineer passionate about creating technology that elevates people and delivers real value. My journey from mechanical engineering to full-stack development has given me a unique perspective on crafting scalable and efficient software solutions.
+I'm a passionate **Software Engineer** and **Frontend Developer** with a strong focus on building user-friendly, scalable, and efficient applications. With a unique background in **mechanical engineering** and web development, I specialize in creating interactive web interfaces and integrating cutting-edge **AI technologies** to deliver value-driven solutions.
 
-### What I Do:
-- Building innovative applications in the **AI space**.
-- Experienced in **ReactJS, Node.js, Langchain, C#, .NET**, and **PostgreSQL**.
-- Leveraging my engineering background to develop **robust, scalable** web applications.
-- Skilled in **Agile**, **Scrum**, and **collaborative problem-solving** across diverse teams.
+### 👨🏾‍💻 **What I Do:**
+- **Frontend Development:** Crafting responsive and interactive UIs with **React.js, JavaScript, HTML, and CSS**.
+- **AI Integration:** Incorporating tools like **Langchain, OpenAI, and Google Gemini** to power intelligent features.
+- **Full-Stack Solutions:** Building and connecting **REST APIs** with **Node.js, Express.js, and MongoDB/PostgreSQL**.
+- **Agile Teamwork:** Experienced in **Scrum** and cross-functional collaboration for efficient delivery.
 
-### Technologies I Enjoy:
-- **JavaScript & Node.js**: Crafting server-side logic and seamless front-end experiences.
-- **ReactJS**: Building dynamic, responsive user interfaces.
-- **C# & .NET**: Developing enterprise-grade applications.
-- **Langchain**: Innovating AI with advanced tools and frameworks.
+### 💻 **Key Skills:**
+- **Frontend:** React.js, HTML, CSS, Material UI, Bootstrap.
+- **Backend:** Node.js, Express.js, C#, .NET (Basic), RESTful APIs.
+- **AI Tools:** Langchain, OpenAI, Google Gemini, Ollama, Groq.
+- **Cloud Platforms:** AWS (Lambda, EC2, S3, Bedrock), Vercel.
+- **Others:** Python (Flask), Git, Jira, Agile/Scrum.
 
-### Find Me Around the Web 🌎:
-- **Sharing insights and updates** on [LinkedIn](https://www.linkedin.com/in/christian-mfuke-kambulu/) 💼
+### 🚀 **Notable Projects:**
+- **[Timbuk2.ai MVP Platform](#):** Designed a dynamic React.js UI with AI chatbot integration using **Langchain** and **OpenAI**, helping secure seed funding.
+- **Automation Workflow:** Automated data report generation with **Python, AWS Lambda, and S3**, reducing processing time by 90%.
+- **Admin Dashboard:** Built an Angular-based dashboard to manage **.NET APIs**, streamlining API oversight.
+
+### 🌎 **Languages:**
+- **English:** Fluent  
+- **French:** Fluent  
+
+### 🌟 **Certifications:**
+- **Full Stack Web Development** – CodeYourFuture  
+- **Full Stack Web Development** – Udemy  
+
+### 📫 **Find Me Online:**
+- **LinkedIn:** [Christian Mfuke Kambulu](https://www.linkedin.com/in/christian-mfuke-kambulu/)  
