@@ -30,4 +30,5 @@ I'm a passionate **Software Engineer** and **Frontend Developer** with a strong 
 - **Mechanical Engineering** – National Diploma
 
 ### 📫 **Find Me Online:**
-- **LinkedIn:** [Christian Mfuke Kambulu](https://www.linkedin.com/in/christian-mfuke-kambulu/)  
+- **LinkedIn:** [Christian Mfuke Kambulu](https://www.linkedin.com/in/christian-mfuke-kambulu/)
+- **Porfolio:** [christianmfuke.com](https://christianmfuke.netlify.app/)
