@@ -16,7 +16,7 @@ I'm a passionate **Software Engineer** and **Frontend Developer** with a strong 
 - **Others:** Python (Flask), Git, Jira, Agile/Scrum.
 
 ### 🚀 **Notable Projects:**
-- **[Timbuk2.ai MVP Platform](#):** Designed a dynamic React.js UI with AI chatbot integration using **Langchain** and **OpenAI**, helping secure seed funding.
+- **Timbuk2.ai MVP Platform:** Designed a dynamic React.js UI with AI chatbot integration using **Langchain** and **OpenAI**, helping secure seed funding.
 - **Automation Workflow:** Automated data report generation with **Python, AWS Lambda, and S3**, reducing processing time by 90%.
 - **Admin Dashboard:** Built an Angular-based dashboard to manage **.NET APIs**, streamlining API oversight.
 
@@ -26,7 +26,8 @@ I'm a passionate **Software Engineer** and **Frontend Developer** with a strong 
 
 ### 🌟 **Certifications:**
 - **Full Stack Web Development** – CodeYourFuture  
-- **Full Stack Web Development** – Udemy  
+- **Full Stack Web Development** – Udemy
+- **Mechanical Engineering** – National Diploma
 
 ### 📫 **Find Me Online:**
 - **LinkedIn:** [Christian Mfuke Kambulu](https://www.linkedin.com/in/christian-mfuke-kambulu/)  
